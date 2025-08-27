@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+ul {
+  text-align: left;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a:hover {
+  color: orangered;
+}
+
+a:active {
+  color: black;
+}
